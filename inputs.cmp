@@ -1,0 +1,269 @@
+Cmp-Mod V01 Created by CvPcb (2014-03-19 BZR 4756)-product date = vie 24 oct 2014 17:14:56 ART
+
+BeginCmp
+TimeStamp = /544AADE1;
+Reference = C1;
+ValeurCmp = 100 pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE3;
+Reference = C2;
+ValeurCmp = 10uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADEB;
+Reference = C3;
+ValeurCmp = 100 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE7;
+Reference = C4;
+ValeurCmp = 120pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADCA;
+Reference = C5;
+ValeurCmp = 100 pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADCC;
+Reference = C6;
+ValeurCmp = 10uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADEC;
+Reference = C7;
+ValeurCmp = 10 uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADED;
+Reference = C8;
+ValeurCmp = 10 uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD4;
+Reference = C9;
+ValeurCmp = 100 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD0;
+Reference = C10;
+ValeurCmp = 120pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADF1;
+Reference = C11;
+ValeurCmp = 1 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADF0;
+Reference = C12;
+ValeurCmp = 100 pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADF2;
+Reference = C13;
+ValeurCmp = 1 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD5;
+Reference = C14;
+ValeurCmp = 10 uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD6;
+Reference = C15;
+ValeurCmp = 10 uF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADDA;
+Reference = C16;
+ValeurCmp = 1 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD9;
+Reference = C17;
+ValeurCmp = 100 pF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADDB;
+Reference = C18;
+ValeurCmp = 1 nF;
+IdModule  = SMD_Packages:SMD-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AAF30;
+Reference = J1;
+ValeurCmp = PHJACK-ST;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE0;
+Reference = L1;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADC9;
+Reference = L2;
+ValeurCmp = INDUCTOR_SMALL;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AB21E;
+Reference = P1;
+ValeurCmp = CONN_10;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADDF;
+Reference = R1;
+ValeurCmp = 49k9;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE4;
+Reference = R2;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE6;
+Reference = R3;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADC7;
+Reference = R4;
+ValeurCmp = 49k9;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE9;
+Reference = R5;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADEA;
+Reference = R6;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADCD;
+Reference = R7;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADEE;
+Reference = R8;
+ValeurCmp = 273;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADEF;
+Reference = R9;
+ValeurCmp = 273;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADCF;
+Reference = R10;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD2;
+Reference = R11;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD3;
+Reference = R12;
+ValeurCmp = 5k76;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD7;
+Reference = R13;
+ValeurCmp = 273;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADD8;
+Reference = R14;
+ValeurCmp = 273;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADE5;
+Reference = U1;
+ValeurCmp = AD8606;
+IdModule  = ;
+EndCmp
+
+BeginCmp
+TimeStamp = /544AADCE;
+Reference = U2;
+ValeurCmp = AD8606;
+IdModule  = ;
+EndCmp
+
+EndListe
